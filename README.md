@@ -1,4 +1,4 @@
-# chatapp
+## Social Media ChatAapp Flutter UI
 
 A new Flutter project.
 
